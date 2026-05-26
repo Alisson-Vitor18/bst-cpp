@@ -1,0 +1,13 @@
+# Ignora a pasta de build
+build/
+
+# Ignora a pasta cmake-build-debug
+cmake-build-debug/
+
+# Ignora executáveis gerados
+*.exe
+*.out
+
+# Ignora arquivos objeto
+*.o
+*.obj
