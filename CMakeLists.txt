@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(untitled1 main.cpp)
 
-target_include_directories()
+target_include_directories(untitled1 PRIVATE includes)
