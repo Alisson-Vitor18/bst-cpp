@@ -1,4 +1,5 @@
 #include <iostream>
+#include "binary_search_tree.hpp"
 
 int main() {
     std::cout << "Hello World" << std::endl;
