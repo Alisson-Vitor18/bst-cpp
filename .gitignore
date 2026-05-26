@@ -11,3 +11,6 @@ cmake-build-debug/
 # Ignora arquivos objeto
 *.o
 *.obj
+
+#Ignora .idea
+.idea/
